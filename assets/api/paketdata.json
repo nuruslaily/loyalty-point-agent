@@ -1,0 +1,62 @@
+{
+    "product":"Paket Data",
+    "operator":"Telkomsel",
+    "results":[
+        {
+            "id":1,
+            "name":"Internet",
+            "kuota":"1 GB",
+            "harga":10000,
+            "poin":10000
+        },
+        {
+            "id":2,
+            "name":"Internet",
+            "kuota":"5 GB",
+            "harga":15000,
+            "poin":15000
+        },
+        {
+            "id":3,
+            "name":"Internet",
+            "kuota":"11 GB",
+            "harga":20000,
+            "poin":20000
+        },
+        {
+            "id":4,
+            "name":"Internet",
+            "kuota":"15 GB",
+            "harga":10000,
+            "poin":10000
+        },
+        {
+            "id":5,
+            "name":"Internet",
+            "kuota":"17 GB",
+            "harga":10000,
+            "poin":10000
+        },
+        {
+            "id":6,
+            "name":"Internet",
+            "kuota":"18 GB",
+            "harga":10000,
+            "poin":10000
+        },
+        {
+            "id":7,
+            "name":"Internet",
+            "kuota":"19 GB",
+            "harga":10000,
+            "poin":10000
+        },
+        {
+            "id":8,
+            "name":"Internet",
+            "kuota":"20 GB",
+            "harga":10000,
+            "poin":10000
+        }
+    ]
+}

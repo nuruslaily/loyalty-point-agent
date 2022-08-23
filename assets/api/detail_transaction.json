@@ -1,0 +1,11 @@
+{
+    "details":{
+        "id":1,
+        "jenis_transaction":"Reedem Cashout",
+        "nama_bank":"BNI",
+        "nomor_rekening":1235421,
+        "poin_account":1001,
+        "poin_redeem":500,
+        "poin_change":501
+    }
+}

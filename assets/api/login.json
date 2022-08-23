@@ -1,0 +1,8 @@
+{
+    "result":{
+        "email":"test@gmail.com",
+        "password":"testpassword",
+        "poin":2000,
+        "pin":1234
+    }
+}

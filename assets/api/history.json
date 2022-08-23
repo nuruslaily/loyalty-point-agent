@@ -1,0 +1,23 @@
+{
+    "history":[
+        {
+            "id":1,
+            "tipe_transaksi":"Redeem Cashout",
+            "tanggal": "19 Mei 2022",
+            "status":"sukses"
+        },
+        {
+            "id":5,
+            "tipe_transaksi":"Redeem paket data",
+            "tanggal": "20 Mei 2022",
+            "status":"sukses"
+        }
+        ,
+        {
+            "id":23,
+            "tipe_transaksi":"Redeem Cashout",
+            "tanggal": "21 Mei 2022",
+            "status":"sukses"
+        }
+    ]
+}
